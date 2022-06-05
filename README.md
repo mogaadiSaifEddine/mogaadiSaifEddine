@@ -1,9 +1,7 @@
-### Hi there 👋
 
 
-**saifmogaadi12/saifmogaadi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.canva.com/design/DAFB7fUgkso/PWIbmNaBnVnNZV8OgoOluQ/view?website#2"> <img src="https://user-images.githubusercontent.com/88867709/170303461-99144012-e640-4617-a43a-df8ced087f59.gif"> </a>
 
-Here are some ideas to get you started:
 
 <div align="center">
 <a href="https://www.canva.com/design/DAFB7fUgkso/PWIbmNaBnVnNZV8OgoOluQ/view?website#2">
