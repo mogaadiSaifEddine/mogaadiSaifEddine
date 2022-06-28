@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifmogaadi12&show_icons=true&theme=ayu-mirage)
 
 
 <a href="[https://www.canva.com/design/DAFB7fUgkso/PWIbmNaBnVnNZV8OgoOluQ/view?website#2](https://www.canva.com/design/DAFCwoiPXpw/1UPr8KpRQfnjSwPT2XftOQ/watch?utm_content=DAFCwoiPXpw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)">  <img src = "[https://www.canva.com/design/DAFCwstlv6M/lcy3aHeUQk8FsfNvrIgXJg/watch?utm_content=DAFCwstlv6M&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel](https://www.canva.com/design/DAFCwstlv6M/lcy3aHeUQk8FsfNvrIgXJg/watch?utm_content=DAFCwstlv6M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)"/> </a>
