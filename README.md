@@ -55,8 +55,8 @@ I prioritize clean, maintainable code and user-centric design. My approach is ro
 
 Feel free to reach out to discuss potential collaborations, share ideas, or just connect:
 
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **GitHub:** [Your GitHub Profile URL]
+- **Email:** [mogaadisaif7@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/saif-eddine-mogaadi/]
+
 
 Thank you for visiting my portfolio!
