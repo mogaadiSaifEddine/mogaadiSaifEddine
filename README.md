@@ -1,6 +1,15 @@
 
 # README
 
+<!-- GitHub Readme Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mogaadiSaifEddine&show_icons=true&hide_title=true&hide=prs,issues&count_private=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogaadiSaifEddine&layout=compact&hide_title=true&theme=tokyonight" alt="Top Languages">
+</p>
 ## Mogaadi Saif Eddine - Web Developer at Locatify
 
 Welcome to my professional portfolio! I'm Mogaadi Saif Eddine, a passionate web developer with a focus on building high-performance and user-friendly web applications. I currently work at Locatify, where I contribute to the development of cutting-edge location-based applications.
