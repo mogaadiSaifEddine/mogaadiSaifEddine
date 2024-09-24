@@ -42,10 +42,6 @@ Welcome to my professional portfolio! I'm Mogaadi Saif Eddine, a passionate web 
    - **Tech Stack:** Angular, Firebase, CSS3
    - **Description:** Built a dynamic leaderboard system integrated into native apps, enabling real-time score updates and user interaction.
 
-3. **Steam Cleaning Business Website**
-   - **Role:** Full-Stack Developer
-   - **Tech Stack:** Angular, Node.js, Express.js, MongoDB
-   - **Description:** Designed and developed a responsive website for a steam cleaning business, focusing on user-friendly navigation and seamless booking processes.
 
 ### 📚 Continuous Learning
 
